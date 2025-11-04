@@ -2,6 +2,11 @@
 
 This project is an interactive image processing application that allows users to select images, adjust settings, and process them via an API.
 
+#### 📂 Reference Diagram
+
+You can view the original design sketch here:  
+[📄 View Diagram](./diagram.md)
+
 ---
 
 ## Table of Contents
