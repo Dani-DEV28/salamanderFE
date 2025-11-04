@@ -7,6 +7,7 @@ It includes components, state flow, and message handling between UI elements and
 
 ## Directory Path
 
+```text
 User
  └── Component
       ├── Footer
@@ -16,6 +17,7 @@ User
       │    ├── DropDown
       │    └── ColorSetting
       └── ConfirmButton
+```
 
 ## 🧩 Components Overview
 
